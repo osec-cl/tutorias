@@ -1,4 +1,4 @@
-# Git
+# LaTeX
 
 Esta carpeta contiene recursos educativos para aprender a utilizar LaTeX.
 
