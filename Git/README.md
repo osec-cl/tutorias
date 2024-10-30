@@ -1,6 +1,6 @@
 # Git
 
-Esta carpeta contiene recursos educativos para aprender a utilizar Git. La tutoría está en formato Jupyter Notebook, en particular se utiliza `!` para escapar a la shell del sistema operativo.
+Esta carpeta contiene recursos educativos para aprender a utilizar Git.
 
 Los créditos van a [Tom Villegas](https://github.com/tvillega), creador de esta tutoría.
 
