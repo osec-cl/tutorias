@@ -11,6 +11,7 @@ Los créditos van a:
 2. Control de Flujo y Errores [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/02_Control_de_Flujo_y_Errores.ipynb)
 3. Bucles e Iteraciones [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/03_Bucles_e_Iteraciones.ipynb)
 4. Funciones [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/04_Funciones.ipynb)
+5. Funciones [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/05_Objetos.ipynb)
 
 ## Recursos adicionales
 
