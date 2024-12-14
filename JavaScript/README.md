@@ -12,6 +12,7 @@ Los créditos van a:
 3. Bucles e Iteraciones [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/03_Bucles_e_Iteraciones.ipynb)
 4. Funciones [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/04_Funciones.ipynb)
 5. Objetos [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/05_Objetos.ipynb)
+6. Arrays [![Open In GitHub](https://img.shields.io/badge/Open_In_GitHub-grey?logo=github)](https://github.com/osec-cl/tutorias/blob/master/JavaScript/06_Arrays.ipynb)
 
 ## Recursos adicionales
 
